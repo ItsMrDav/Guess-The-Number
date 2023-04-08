@@ -1,7 +1,7 @@
 # Guess-The-Number
 
 
-A basic JavaScript practise game. Try to guess a number between 1-20 to guess randomized secret number.
+A basic JavaScript practise game. Put a number between 1-20 into input area to guess randomized secret number.
 
 
 ## Authors
